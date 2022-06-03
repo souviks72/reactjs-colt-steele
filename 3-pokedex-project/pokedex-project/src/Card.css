@@ -1,0 +1,23 @@
+.Card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+
+    padding: 20px 30px;
+    background-color: rgb(206, 206, 206);
+    border-radius: 10px;
+    max-width: fit-content;
+    
+}
+
+.Card h6{
+    color: blue;
+    font-size: 18px;
+}
+
+.Card-img{
+    width: 200px;
+    margin: 20px auto;
+}

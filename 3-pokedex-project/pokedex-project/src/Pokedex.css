@@ -1,0 +1,15 @@
+.Pokedex{
+    padding: 20px;
+}
+
+.Pokedex p {
+    text-align: center;
+}
+
+.Pokedex-cards{
+    display: flex;
+    gap: 40px;
+
+    max-width: fit-content;
+    margin: 100px auto;
+}
